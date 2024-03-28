@@ -5,7 +5,7 @@
 
 #Change the input filename here (can be found under "FilteredBySize")
 input=Trechisporales.csv_editfiltered.fasta
-#Change this for output duplicate list
+#Change this for output duplicate list (can be found under "FilteredBySize/DuplicatesRemoved")
 duplicates=Trechisporales_duplicate_list
 #Change this for clean file name
 output=Trechisporales_nodupes.fas
