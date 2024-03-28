@@ -4,6 +4,7 @@
 
 # PATH to seqkit
 Add the following line to the RemoveDuplicates.sh before executing the bash script.
+
 export PATH=$PATH:/path/to/seqkit
 
 # Input files for RemoveDuplicates.sh
