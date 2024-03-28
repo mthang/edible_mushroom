@@ -3,6 +3,9 @@
 ## Tool
 [seqkit](https://github.com/shenwei356/seqkit/releases/download/v2.8.0/seqkit_linux_amd64.tar.gz) is a cross-platform and ultrafast toolkit for FASTA/Q file manipulation
 
+## Install seqkit
+### seqkit is a binary format and is ready for use after decompressed (i.e tar -xzvf seqkit_linux_amd64.tar.gz)
+
 ## WSL environment configuration
 1. Open **cmd.exe**
 2. Type **wsl -u root**
