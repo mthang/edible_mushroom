@@ -4,7 +4,7 @@
 Go to this [link](https://www.geeksforgeeks.org/how-to-install-mobaxterm-portable-edition-on-windows/) for more details.
 
 ## Install WSL 
-Go to this [
+Go to this [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 
 ## Tool
 [seqkit](https://github.com/shenwei356/seqkit/releases/download/v2.8.0/seqkit_linux_amd64.tar.gz) is a cross-platform and ultrafast toolkit for FASTA/Q file manipulation
