@@ -30,3 +30,14 @@ mkdir dir  | Make directory dir
 cd dir     | Change directory to dir
 cd ..      | Go up a directory
 ls         | List files
+
+## Remove Duplicate sequences 
+Run RemoveDuplicates.sh to remove duplicates in the FilteredBySize folder which containing sequence length greater than 200 bp.
+
+## Blast
+upload the nodues fasta to NCBI to find the close reference genome and pick the closer species. Then, download the fasta sequecne and concatenate with the input fasta file
+
+## Concatenation of reference genome 
+Merge the identified reference sequence with the input fasta file
+
+## Run Fasttree
